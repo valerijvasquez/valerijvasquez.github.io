@@ -37,3 +37,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
+/* Hide GitHub Pages theme footer */
+footer, .site-footer {
+    display: none !important;
+}
+
