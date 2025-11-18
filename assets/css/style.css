@@ -38,7 +38,24 @@ a:hover {
     text-decoration: underline;
 }
 /* Hide GitHub Pages theme footer */
-footer, .site-footer {
+/* Remove ALL possible GitHub footer elements */
+footer,
+.site-footer,
+.page-footer,
+div.footer,
+div.site-footer,
+div.page-footer,
+div.wrapper > footer,
+.wrapper > footer,
+section.footer,
+#footer,
+.site-footer-owner,
+.site-footer-credits {
     display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
+
 
