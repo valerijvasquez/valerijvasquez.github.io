@@ -1,41 +1,34 @@
-/* Remove the GitHub header */
+/* Remove GitHub Pages default header */
 header, .site-header, .page-header {
     display: none !important;
 }
 
-/* Global body styling */
+/* Improve spacing and readability */
 body {
-    max-width: 900px;
-    margin: 60px auto;
-    padding: 0 30px;
+    max-width: 850px;
+    margin: 50px auto;
+    padding: 0 25px;
     line-height: 1.7;
     font-size: 17px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #222;
-    background: #f7f7f7;
 }
 
-/* Container card for your content */
-.container {
-    background: white;
-    padding: 40px 50px;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.05);
-}
-
-/* Headings */
+/* Improve headings */
 h1 {
-    font-size: 36px;
+    margin-top: 0;
     margin-bottom: 10px;
 }
 
 h2 {
-    font-size: 26px;
-    margin-top: 50px;
+    margin-top: 40px;
     margin-bottom: 10px;
 }
 
-/* Links */
+/* Improve horizontal rule */
+hr {
+    margin: 40px 0;
+}
+
+/* Improve link styling */
 a {
     color: #0066cc;
     text-decoration: none;
@@ -43,9 +36,4 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-/* Horizontal rules */
-hr {
-    margin: 40px 0;
 }
