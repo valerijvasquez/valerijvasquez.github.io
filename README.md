@@ -16,8 +16,7 @@ Key features:
 
 Everything is implemented from scratch using a clean, modular class structure.
 
-**Project repository:**  
-https://gitlab.com/valerij1/bb84-simulation
+**Project repository:**  [GitLab - BB84 Simulation](https://gitlab.com/valerij1/bb84-simulation)
 
 ---
 
@@ -28,18 +27,14 @@ Stockholm University, Department of Physics
 Covers the quantum mechanics needed for BB84, walks through the protocol step by step, describes the structure of the simulation code,
 and presents clear statistical analyses of how BB84 performs under different noise levels and error-correction schemes.
 
-**Published version:**  
-https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-247205
+**Published version:**  [Stockholm University DiVA Archive](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-247205)
 
 ---
 
 ## Certificates
 
-- **Google Data Analytics Professional Certificate**  
-  Verification: https://coursera.org/verify/professional-cert/78K4E7CNREKR
+- **Google Data Analytics Professional Certificate** - [Verification](https://coursera.org/verify/professional-cert/78K4E7CNREKR)
 
-- **Programming in Python**  
-  Verification: https://coursera.org/verify/8SXTKYKVEK3G  
+- **Programming in Python** - [Verification](https://coursera.org/verify/8SXTKYKVEK3G)
 
-- **Bitcoin for Everybody**  
-  Verification: https://learn.saylor.org/admin/tool/certificate/index.php?code=1379826317VV
+- **Bitcoin for Everybody** - [Verification](https://learn.saylor.org/admin/tool/certificate/index.php?code=1379826317VV)
