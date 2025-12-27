@@ -1,5 +1,7 @@
 # Valerij Vasquez
 
+---
+
 ## BB84 Quantum Key Distribution Simulation
 Python implementation of the BB84 protocol, developed as part of my bachelor thesis in Physics.
 
