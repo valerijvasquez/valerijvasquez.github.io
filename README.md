@@ -16,7 +16,7 @@ Key features:
 
 Everything is implemented from scratch using a clean, modular class structure.
 
-**Project repository:**  [GitLab - BB84 Simulation](https://gitlab.com/valerij1/bb84-simulation)
+**Project repository:**  [GitHub - BB84 Simulation](https://github.com/valerijvasquez/bb84-simulation)
 
 ---
 
