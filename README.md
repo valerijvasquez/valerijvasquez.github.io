@@ -33,6 +33,8 @@ and presents clear statistical analyses of how BB84 performs under different noi
 
 ## Certificates
 
+- **SQL (Basic), HackerRank** - [Verification](https://www.hackerrank.com/certificates/c9ba7ca72b0d)
+
 - **Google Data Analytics Professional Certificate** - [Verification](https://coursera.org/verify/professional-cert/78K4E7CNREKR)
 
 - **Programming in Python** - [Verification](https://coursera.org/verify/8SXTKYKVEK3G)
